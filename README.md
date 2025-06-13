@@ -12,7 +12,7 @@ A beautiful, heart-warming surprise webpage made to express your love in the mos
 
 ## 📸 Preview
 
-![Surprise Preview](https://github.com/user-attachments/assets/d5c30781-429f-40c7-9715-f24332d7d57e) 
+![Surprise Preview](https://github.com/user-attachments/assets/ea0edbe5-fbb2-44e6-8f22-fdcc6ce80a71) 
 *(Add your own preview screenshot in the `image/` folder)*
 
 ---
